@@ -1,4 +1,6 @@
 chilli
 hot
+
+mirchi
 spicy
 pepper
